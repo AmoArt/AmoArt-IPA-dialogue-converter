@@ -5,7 +5,7 @@ ALRIK  //
 ALRIK'S  //
 ANGAR  //
 ARAXOS  //
-ARCHDEMON  //
+ARCHDEMON  /ˈɑɹtʃˈdimən/
 BALTRAM  //
 BALTRAM'S  //
 BELIAR  //
@@ -20,12 +20,12 @@ BOSPER'S  //
 BROMOR  //
 BULLCO  //
 CANTHAR  //
-CASH-BOX  //
+CASH-BOX  /ˈkæʃˌbɑks/
 CAVALORN  //
 CAVALORN'S  //
 CONSTANTINO'S  //
 CRESCENT-SHAPED  //
-CROSSBOWMAN  //
+CROSSBOWMAN  /ˈkɹɔsˌboʊmən/
 DAMNIT  //
 DARON  //
 DROP-OUT  //
@@ -65,7 +65,7 @@ LEHMAR  //
 LEHMAR'S  //
 LOBART  //
 LOBART'S  //
-MEATBUGS  //
+MEATBUGS  /ˈmitbəɡz/
 MILTEN  //
 MILTEN'S  //
 MINECRAWLERS  //
@@ -75,7 +75,7 @@ NEFARIUS  //
 NEORAS  //
 ONAR  //
 ONAR'S  //
-ONE-HANDED  //
+ONE-HANDED  /ˈwənˈhændəd/
 OPOLOS  //
 ORCISH  //
 ORCS  //
@@ -116,7 +116,7 @@ THORBEN'S  //
 THORUS  //
 TORLOF'S  //
 TROKAR  //
-TWO-HANDED  //
+TWO-HANDED  /ˈtuˈhændəd/
 UDAR  //
 ULTHAR  //
 UNDEAD  //
