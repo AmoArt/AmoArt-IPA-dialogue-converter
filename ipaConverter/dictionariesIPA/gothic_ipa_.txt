@@ -77,8 +77,8 @@ ONAR  //
 ONAR'S  //
 ONE-HANDED  /ˈwənˈhændəd/
 OPOLOS  //
-ORCISH  //
-ORCS  //
+ORCISH  /ˈɔɹkɪʃ/
+ORCS  /ˈɔɹks/
 ORLAN'S  //
 PARDOS  //
 PARLAN  //
@@ -105,8 +105,8 @@ SILVESTRO'S  /siɫˈveɪstɹoʊz/
 SNAF  //
 SUMMONINGS  //
 SWAMPSHARKS  /ˈswɑmpˌʃɑɹks/
-SWAMPWEED  //
-SWORDMASTER  //
+SWAMPWEED  /ˈswɑmpˈwid/
+SWORDMASTER  /ˈsɔɹdˌmæstɝ/
 TELEPORTER  /ˈtɛɫəˈpɔɹtɝ/
 TELEPORTERS  /ˈtɛɫəˈpɔɹtɝz/
 TENGRON  //
