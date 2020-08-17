@@ -1,0 +1,2 @@
+http://www.fileformat.info/info/charset/UTF-8/list.htm
+list of all the letters to Encoded Byte code.
